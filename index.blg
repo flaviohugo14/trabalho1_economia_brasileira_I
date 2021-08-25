@@ -1,0 +1,18 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'index.blg'
+[101] biber-darwin:340> INFO - === Wed Aug 25, 2021, 12:58:17
+[120] Biber.pm:415> INFO - Reading 'index.bcf'
+[237] Biber.pm:952> INFO - Found 9 citekeys in bib section 0
+[252] Biber.pm:4340> INFO - Processing section 0
+[265] Biber.pm:4531> INFO - Looking for bibtex format file 'ref.bib' for section 0
+[267] bibtex.pm:1689> INFO - LaTeX decoding ...
+[293] bibtex.pm:1494> INFO - Found BibTeX data source 'ref.bib'
+[332] Utils.pm:395> WARN - legacy month field 'December' in entry 'NBERh0066' is not an integer - this will probably not sort properly.
+[357] Utils.pm:395> WARN - legacy month field 'dez.' in entry 'Quadros_Machado_2013' is not an integer - this will probably not sort properly.
+[384] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[384] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[384] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'pt-BR'
+[384] Biber.pm:4174> INFO - No sort tailoring available for locale 'pt-BR'
+[402] bbl.pm:654> INFO - Writing 'index.bbl' with encoding 'UTF-8'
+[410] bbl.pm:757> INFO - Output to index.bbl
+[410] Biber.pm:128> INFO - WARNINGS: 2

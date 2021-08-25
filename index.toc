@@ -1,0 +1,11 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {brazil}{}
+\babel@toc {brazil}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Resumo}{3}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Introdução}{3}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{A evolução do ensino primáro no Brasil, 1930-1964}{4}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Referências}{12}{}%
